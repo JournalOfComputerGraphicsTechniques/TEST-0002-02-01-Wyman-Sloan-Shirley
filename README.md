@@ -43,7 +43,7 @@ We provide three analytical fits to the CIE _x̅_, _y̅_, and _z̅_ color matchi
 
 ---
 
-# About this repository
+# About This Repository
 
 Included:
 
