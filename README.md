@@ -47,13 +47,9 @@ We provide three analytical fits to the CIE _x̅_, _y̅_, and _z̅_ color matchi
 
 Included:
 
-  * A window executable of the curve viewer
   * The CIE data we used in this paper (in directory "data/")
   * Our implementations of the curves tested in the paper (in "curves/")
   * Source for our crude curve viewer
-  * A precompiled .lib and headers for the IGLU library dependency (in "iglu/")
-     (+) Code for this library can also be downloaded online and compiled on
-         a variety of platforms with various compilers.
 
 The data and curves (in their respective directories) have been designed to
 be easy to incorporate into other C++ programs.  You should be able to pull the
@@ -64,7 +60,15 @@ written after the fact, once we had curves in the appropriate format.
 The code should be cross platform, and we've done a reasonable job of ensure it
 compiles warning-free.  
 
+The release includes a "Precompiled" bundle, which contains:
+
+  * A window executable of the curve viewer
+  * A precompiled .lib and headers for the IGLU library dependency (in "iglu/")
+     (+) Code for this library can also be downloaded online and compiled on
+         a variety of platforms with various compilers.
+
 The included Visual Studio project is for VS2010, as is the precompiled IGLU
 library we included in the "iglu/" directory.
+
 
 
