@@ -31,7 +31,7 @@ We provide three analytical fits to the CIE _x̅_, _y̅_, and _z̅_ color matchi
 
 ![bibtex](bibtex-icon.png) [BibTex](http://jcgt.org/published/0002/02/01/bibtex.bib) (428 B)
 
-![source](file-icon.png)[Source Code](releases)
+![source](file-icon.png)[Source Code](https://github.com/JournalOfComputerGraphicsTechniques/TEST-0002-02-01-Wyman-Sloan-Shirley/releases)
 
 
 **Citation:** Chris Wyman, Peter-Pike Sloan, and Peter Shirley, Simple Analytic Approximations to the CIE XYZ Color Matching Functions, _Journal of Computer Graphics Techniques (JCGT)_, vol. 2, no. 2, 1-11, 2013. Available online [http://jcgt.org/published/0002/02/01/](http://jcgt.org/published/0002/02/01/)
@@ -60,7 +60,7 @@ written after the fact, once we had curves in the appropriate format.
 The code should be cross platform, and we've done a reasonable job of ensure it
 compiles warning-free.  
 
-The release includes a "Precompiled" bundle, which contains:
+The [release](https://github.com/JournalOfComputerGraphicsTechniques/TEST-0002-02-01-Wyman-Sloan-Shirley/releases) additionally includes a "Precompiled" bundle, which contains:
 
   * A window executable of the curve viewer
   * A precompiled .lib and headers for the IGLU library dependency (in "iglu/")
