@@ -4,7 +4,7 @@
 
 ## Simple Analytic Approximations to the CIE XYZ Color Matching Functions
 
-![icon](icon.png)
+![icon](_icons/icon.png)
 
 **Authors:**  
 Chris Wyman  
@@ -27,11 +27,11 @@ We provide three analytical fits to the CIE _x̅_, _y̅_, and _z̅_ color matchi
 
 **Download:**
 
-![pdf](pdficon_large.png) [Full-Text PDF](http://jcgt.org/published/0002/02/01/paper.pdf) (1.3 MB)
+![pdf](_icons/pdficon_large.png) [Full-Text PDF](http://jcgt.org/published/0002/02/01/paper.pdf) (1.3 MB)
 
-![bibtex](bibtex-icon.png) [BibTex](http://jcgt.org/published/0002/02/01/bibtex.bib) (428 B)
+![bibtex](_icons/bibtex-icon.png) [BibTex](http://jcgt.org/published/0002/02/01/bibtex.bib) (428 B)
 
-![source](file-icon.png)[Source Code](https://github.com/JournalOfComputerGraphicsTechniques/TEST-0002-02-01-Wyman-Sloan-Shirley/releases)
+![source](_icons/file-icon.png)[Source Code](https://github.com/JournalOfComputerGraphicsTechniques/TEST-0002-02-01-Wyman-Sloan-Shirley/releases)
 
 
 **Citation:** Chris Wyman, Peter-Pike Sloan, and Peter Shirley, Simple Analytic Approximations to the CIE XYZ Color Matching Functions, _Journal of Computer Graphics Techniques (JCGT)_, vol. 2, no. 2, 1-11, 2013. Available online [http://jcgt.org/published/0002/02/01/](http://jcgt.org/published/0002/02/01/)
